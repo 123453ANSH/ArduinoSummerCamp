@@ -1,9 +1,7 @@
 #include <Servo.h>
 //Low means its recieving no light - ie,black
 //high means recieving all light = ie.white
-// if want to follow black, HIGH means its following black - will be running at most times tho because detecting light, so watch out
-//also when the sensor looks on on the robot, means its off = bc confusing, just use white tape in a dark room 
-// ultrasonic and line tracking - a competition challenge 
+// ultrasonic and line tracking
 int LF = 10; 
 int RF = 9; 
 int LB = 6;
