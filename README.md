@@ -1,6 +1,6 @@
 # ArduinoSummerCamp
-During the 2019 summer, I created an Arduino Summer Camp which teaches students how to control the Arduino microcontroller to manipulate circuits and electronic devices in general. The programming projects and concepts created for students are right here, in case anyone wants to self-learn this course for free :). 
+During 2019 summer, I created and taught an Arduino Summer Camp which teaches students how to control the Arduino microcontroller to manipulate circuits and electronic devices in general. Students also learn essential the mechanical principles surrounding the creation of a robot. More in depth explanation of what this camp teaches can be found at the camp website: https://camp.irvingtonrobotics.org. 
 
-Here is a break down of the content: 
+The programming projects and concepts taught to students are right here, in case anyone wants to self-learn this course for free :). 
 
 
